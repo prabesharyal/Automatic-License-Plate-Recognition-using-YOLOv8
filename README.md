@@ -23,7 +23,7 @@ conda create --prefix ./env python==3.10 -y
 ```ps 
 conda activate ./env
 ```
-
+> __Note__ : _Be in the same directory of git repo and environment_
 ### Within environment type
 ```ps 
 pip install -r requirements.txt
