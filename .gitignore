@@ -160,9 +160,5 @@ cython_debug/
 #.idea/
 
 anpr_test/
-sample.mp4
 sort/
-test_interpolated.csv
-test.csv
 out.mp4
-yolov8n.pt
