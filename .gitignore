@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 anpr_test/
-sort/
 out.mp4
